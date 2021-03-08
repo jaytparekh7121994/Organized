@@ -9,6 +9,7 @@ Division is as per below: \
     4. VIDEOS : .mp4, .mov, .avi \
     5. COMPRESSED : .zip, .tgz, .gz, .rar \
     6. EXE : .exe \
-    7. EXCEL SHEET : .xlsx, .xls 
+    7. EXCEL SHEET : .xlsx, .xls \
+
 How to use ? \
 Simply just run "python Organized.py" on your destined Directory which you want to organize.
